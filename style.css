@@ -1,0 +1,63 @@
+* {
+	font-family: "cursive;";
+}
+
+body {
+	background-color: whitesmoke;
+}
+
+h1 {
+	font-weight: normal;
+	text-align: center;
+}
+
+h2 {
+	font-weight: normal;
+	text-align: center;
+}
+
+h5 {
+	font-weight: normal;
+	text-align: center
+}
+
+img {
+	text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p {
+	text-align: center;
+}
+
+div {
+	text-align: center;
+	margin: 12px;
+}
+
+hr {
+	width: 200px;
+	border-top: 2px solid darkgrey;
+}
+
+button {
+	background-color: darkgrey;
+	color: black;
+	height: 30px;
+	width: 150px;
+	font-weight: bold;
+}
+
+input {
+	width: 600px;
+}
+
+textarea {
+	width: 600px;
+}
